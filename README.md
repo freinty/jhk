@@ -1,1 +1,4 @@
-# jhk
+bind-addr: 127.0.0.1:8080
+auth: password
+password: 123456
+cert: false
